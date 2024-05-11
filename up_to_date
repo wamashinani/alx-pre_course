@@ -1,0 +1,4 @@
+1. write git pull command 
+2.git add .
+3. git commit -m 'to commit the changes made so far'
+4. git push
